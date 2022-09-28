@@ -1,5 +1,5 @@
 # JOGO DA MEMÓRIA
-Recriação do claśsico jogo da memória em Java Script. Como temática escolhi utilizar informações da minha carreira. Foi meu primeiro projeto de Java Script quando comecei a estudar o tema.
+Recriação do claśsico jogo da memória em Java Script. Como temática escolhi utilizar informações da minha carreira. Foi meu primeiro projeto de Java Script quando comecei a estudar o tema. https://rmachado55.github.io/jogo-da-memoria/
 
 ## UTILIZAÇÃO
 - Selecione duas cartas até formar um par.
